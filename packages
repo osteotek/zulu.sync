@@ -2,7 +2,6 @@ color
 revolver
 zulu-theme
 filthy
-syntax-highlighting
 agnoster
 k
 homebrew
@@ -18,9 +17,10 @@ fzf
 osx
 docker
 tipz
-enhancd
 fasd
 alien-minimal
 zsh-hints
 archive
 transfer
+enhancd
+fast-syntax-highlighting
